@@ -21,4 +21,3 @@ In the folder where the program is located,run the program by typing:
 ***What to do next***
 ---The program is not able to handle the case where the user inputs a prompt that contains multiple model types.
 ---The program is not able to handle the multiple date types.
-
